@@ -1,13 +1,8 @@
-package Pessoa;
+package CalculoDeIdade;
 
 import java.time.LocalDate;
-import java.time.LocalDateTime;
 import java.time.Period;
 import java.time.temporal.ChronoUnit;
-import java.util.Arrays;
-import java.util.Calendar;
-import java.util.Date;
-import java.util.Locale;
 
 public class Pessoa {
     private String nome;
